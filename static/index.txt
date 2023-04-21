@@ -1,0 +1,61 @@
+DESCRIPTION
+    Congradulations. You managed to type out a number you found on a piece of
+    paper. Certainly an accomplishment worthy of praise.
+
+    Anyways: this is my science fair project. Hopefully my little text file can be
+    a little more entertaining by virtue of the fact that it's forcing more strain
+    on your eyes by making you read off a small screen. Most likely you have heard
+    about the recent advances in AI, most notably ChatGPT which stirred a large
+    amount of interest in the field and prompted google and microsoft to start a
+    little war. Which is all well and good, except AI has a tendency to raise a
+    number of ethical questions. Consider the following which I have ranked roughly
+    in the order of how important I consider them (because that's scientific if you
+    disregard what scientific means):
+      1. Will it kill us all?
+
+      2. Is ma jerb gun ferever?
+
+      3. To what extent should AI technology be concentrated in the hands of large
+      multinational coorporations versus distributed amongst the populace?
+
+    The last one is the only one I can think to begin probing at, and so that is
+    the line of inquiry I went with. My project consists of basically three parts:
+      1. A proposal for how you could go about enabling shared ownership of large
+      AI models.
+
+      2. A small implementation of that proposal just for fun.
+
+      3. A survey of science fair participants who can share their personal views on
+      the topic.
+
+    Ideally you proceed through the project sequentially as you (hopefully) have
+    been so far. Though before you continue on read the following questions,
+    and think about them a little bit. I may ask you to articulate your thoughts
+    because I think that would be fun for me to watch. I'm mostly going to focus
+    my discussion on languages models like the GPT series particularly the most
+    recent ones for the reason that they are the models that demonstrate something
+    that appears to approximate something like reason and thought.
+
+    Some basic ethical questions:
+      1. OpenAI disallows GPT from responding to requests for "disallowed content"
+      obviously including things like requests to write malware, do anything contrary
+      to law, etc. What qualifies as "disallowed content" and who gets to decide?
+
+      2. The raw power AI can grant to a person is obvious. If a group of people
+      manages to train a concious AGI is it their right to control it since they were
+      the ones who payed through thought and resources to make it?
+
+      3. One of the ideas the Canadian and U.S. economies rest on is the idea that
+      a persons work can be stored. That scarce goods should be allocated to the
+      people who contribute to the economy, which means that when it's working, work
+      and skill should be rewarded. How should resources be allocated as a larger
+      proportion of work is produced by machines?
+
+PROPOSAL
+i
+
+IMPL
+    Go to /try
+
+SURVEY
+    Now it's time for you to share your thoughts. Go ahead and fill out the survey.
